@@ -1,1 +1,0 @@
-# Mitigation-of-Crop-Disease-
