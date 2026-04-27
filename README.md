@@ -93,6 +93,6 @@ The dataset includes both **healthy and diseased plant images** for accurate cla
 📚 References:
 - PlantVillage Dataset  
 - Various research papers on CNN and plant disease detection
-- 
+
 📢 Conclusion:
 This project demonstrates how **AI + Agriculture** can solve real-world problems. By leveraging CNN models, we achieved high accuracy in detecting plant diseases, making it a scalable and practical solution for farmers.
